@@ -1,0 +1,18 @@
+{
+    "Trading Bot Dev Team": {
+        "url": "tradingbotdevteam",
+        "apps": {
+            "AutoTrading": {
+                "token": "xoxp-1344277647957-1371202966960-1596527330405-34e5fe862411dafdbb0d7b79353553b0",
+                "bot_token": "xoxb-1344277647957-1586243389379-PFgsQrPW4lWO2JVB0kieB6E6",
+                "webhook_url": "https://hooks.slack.com/services/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",
+                "channel": "#trading-bot"
+            },
+            "Bot.js": {
+                "token": "xoxp-1344277647957-1371202966960-1592851992870-ac2eda9d95399dfb34129414ac60d18e",
+                "bot_token": "xoxb-1344277647957-1599832677459-4ptrle3b2SizOU5jfXTztZ5z",
+                "channel": "#trading-bot"
+            }
+        }
+    }
+}
